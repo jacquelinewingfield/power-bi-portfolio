@@ -1,1 +1,1 @@
-
+Delete all the contents
